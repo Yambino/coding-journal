@@ -1,0 +1,5 @@
+January 14, 2021
+    I've decided to get back into learning how to code and have been following The Odin Project's guide to 
+    learning web development. The content has been very good so far. I'm currently working on the section
+    with freecodecamp.com's Responsive Web Design Certification. I now have a basic understanding of
+    HTML and some CSS. I will take my skills further and learn more each day.
