@@ -3,3 +3,10 @@ January 14, 2021
     learning web development. The content has been very good so far. I'm currently working on the section
     with freecodecamp.com's Responsive Web Design Certification. I now have a basic understanding of
     HTML and some CSS. I will take my skills further and learn more each day.
+
+January 15, 2021
+    Just finished the CSS grid section and all the other introductory courses on FCC.
+    I'm now beginning the projects section. I still need to commit some of the material
+    to memory but I think I'm ready to build my first website. Of course, I'll still
+    be googling some concepts that I'll have trouble recalling, but even the most
+    experienced developers still use Google so I'm not worried about that.
