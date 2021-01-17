@@ -10,3 +10,9 @@ January 15, 2021
     to memory but I think I'm ready to build my first website. Of course, I'll still
     be googling some concepts that I'll have trouble recalling, but even the most
     experienced developers still use Google so I'm not worried about that.
+
+January 17, 2021
+    Began the first project on the Responsive Web Development section in FCC. I'm making a tribute page
+    dedicated to Sir Tim Berners-Lee, the founder of the World Wide Web. I'm using an online app called
+    CodePen; the interface is visually pleasing and it's easy to use. The HTML is coming along nicely
+    and I'm looking forward to making the website come to life with the CSS.
