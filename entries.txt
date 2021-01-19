@@ -1,18 +1,25 @@
-January 14, 2021
+01/14/2021
     I've decided to get back into learning how to code and have been following The Odin Project's guide to 
     learning web development. The content has been very good so far. I'm currently working on the section
     with freecodecamp.com's Responsive Web Design Certification. I now have a basic understanding of
     HTML and some CSS. I will take my skills further and learn more each day.
 
-January 15, 2021
+01/15/2020
     Just finished the CSS grid section and all the other introductory courses on FCC.
     I'm now beginning the projects section. I still need to commit some of the material
     to memory but I think I'm ready to build my first website. Of course, I'll still
     be googling some concepts that I'll have trouble recalling, but even the most
     experienced developers still use Google so I'm not worried about that.
 
-January 17, 2021
+01/17/2021
     Began the first project on the Responsive Web Development section in FCC. I'm making a tribute page
     dedicated to Sir Tim Berners-Lee, the founder of the World Wide Web. I'm using an online app called
     CodePen; the interface is visually pleasing and it's easy to use. The HTML is coming along nicely
     and I'm looking forward to making the website come to life with the CSS.
+
+01/19/2021
+    I've completed the tribute page dedicated to Sir Tim Berners-Lee, the founder of the World Wide Web.
+    That project has helped me understand CSS grid a little bit better and I'm now implementing grid 
+    on the second FCC project on building a survey page. It is coming along nicely, although, the CSS 
+    portion looks a bit more advanced on the example given. I'll try to emulate the example on my own 
+    page and add my own personal touches.
