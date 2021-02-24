@@ -23,3 +23,6 @@
     on the second FCC project on building a survey page. It is coming along nicely, although, the CSS 
     portion looks a bit more advanced on the example given. I'll try to emulate the example on my own 
     page and add my own personal touches.
+
+02/24/2021
+	It's been a while since I last practiced using git. Update on my progress: I discontinued the web development route and decided to go data science. I'm currently doing Dataquest's data science course and I have my eyes on building a scaled down Mars rover.
